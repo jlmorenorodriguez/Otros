@@ -1,0 +1,24 @@
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll.config
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll.config
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll.config
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll.config
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\LogicaNegocioyADatos\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\LogicaNegocioyADatos\obj\Debug\LogicaNegocioyADatos.pdb

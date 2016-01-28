@@ -1,0 +1,51 @@
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe.config
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUAlumno.resources
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUDetalleAlumno.resources
+C:\Users\Alberto\Desktop\wd6_ProyectoCapas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.Properties.Resources.resources
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe.config
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUAlumno.resources
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUDetalleAlumno.resources
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.Properties.Resources.resources
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd6.2_Proyecto en 2 Capas\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe.config
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUAlumno.resources
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUDetalleAlumno.resources
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.Properties.Resources.resources
+C:\Users\Alberto\Desktop\wd6.3 y LNyAD static\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe.config
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.pdb
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.dll
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\bin\Debug\LogicaNegocioyADatos.pdb
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUAlumno.resources
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.IUDetalleAlumno.resources
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.Properties.Resources.resources
+C:\Users\Alberto\Desktop\wd6.4 con dgv a Vista en lugar de Tabla\wd6_ProyectoCapas\obj\Debug\InterfazUsuario.csproj.GenerateResource.Cache
+C:\Users\JoseLuis\Downloads\wd6.5 y actualizando BD al final oexplicita\wd6_ProyectoCapas\bin\Debug\wd6_ProyectoCapas.exe.config
+C:\Users\JoseLuis\Downloads\wd6.5 y actualizando BD al final oexplicita\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.exe
+C:\Users\JoseLuis\Downloads\wd6.5 y actualizando BD al final oexplicita\wd6_ProyectoCapas\obj\Debug\wd6_ProyectoCapas.pdb
