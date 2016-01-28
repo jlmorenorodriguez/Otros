@@ -1,0 +1,22 @@
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\bin\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\bin\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\obj\Debug\SegmentosOK.FormDibujo.resources
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\obj\Debug\SegmentosOK.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 DFSI\xDFSI\2xWindows\xWin_1011 (BD_Segmentos)\Segmentos (OK)\Segmentos (OK)\obj\Debug\SegmentosOK.FormDatos.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\bin\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\bin\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\obj\Debug\SegmentosOK.FormDatos.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\obj\Debug\SegmentosOK.FormDibujo.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\obj\Debug\SegmentosOK.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1011 (BD_Segmentos 1)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Segmentos (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).pdb

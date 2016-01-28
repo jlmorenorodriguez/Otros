@@ -1,0 +1,27 @@
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\bin\Debug\RichText.exe.config
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\bin\Debug\RichText.exe
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\bin\Debug\RichText.pdb
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\obj\Debug\RichText.csprojResolveAssemblyReference.cache
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\obj\Debug\RichText.Form1.resources
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\obj\Debug\RichText.Properties.Resources.resources
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\obj\Debug\RichText.csproj.GenerateResource.Cache
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\obj\Debug\RichText.exe
+c:\users\ferchoperex\documents\visual studio 2013\Projects\RichText\RichText\obj\Debug\RichText.pdb
+C:\Users\JoseLuis\Downloads\RichText\RichText\bin\Debug\RichText.exe.config
+C:\Users\JoseLuis\Downloads\RichText\RichText\obj\Debug\RichText.exe
+C:\Users\JoseLuis\Downloads\RichText\RichText\obj\Debug\RichText.pdb
+C:\Users\JoseLuis\Downloads\RichText\RichText\bin\Debug\RichText.exe
+C:\Users\JoseLuis\Downloads\RichText\RichText\bin\Debug\RichText.pdb
+C:\Users\JoseLuis\Downloads\RichText\RichText\obj\Debug\RichText.csprojResolveAssemblyReference.cache
+C:\Users\JoseLuis\Downloads\RichText\RichText\obj\Debug\RichText.Form1.resources
+C:\Users\JoseLuis\Downloads\RichText\RichText\obj\Debug\RichText.Properties.Resources.resources
+C:\Users\JoseLuis\Downloads\RichText\RichText\obj\Debug\RichText.csproj.GenerateResource.Cache
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\bin\Debug\RichText.exe.config
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\obj\Debug\RichText.exe
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\obj\Debug\RichText.pdb
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\bin\Debug\RichText.exe
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\bin\Debug\RichText.pdb
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\obj\Debug\RichText.csprojResolveAssemblyReference.cache
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\obj\Debug\RichText.Form1.resources
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\obj\Debug\RichText.Properties.Resources.resources
+C:\Users\JMORUEZ\Desktop\Trabajo C# JLMR\Trabajo c#\RichText\RichText\obj\Debug\RichText.csproj.GenerateResource.Cache

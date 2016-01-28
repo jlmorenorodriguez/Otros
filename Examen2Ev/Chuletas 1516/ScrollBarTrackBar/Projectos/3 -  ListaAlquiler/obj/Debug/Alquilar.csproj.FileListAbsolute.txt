@@ -1,0 +1,9 @@
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\bin\Debug\Alquilar.exe.config
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\bin\Debug\Alquilar.exe
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\bin\Debug\Alquilar.pdb
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\obj\Debug\Alquilar.csprojResolveAssemblyReference.cache
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\obj\Debug\Alquilar.Form1.resources
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\obj\Debug\Alquilar.Properties.Resources.resources
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\obj\Debug\Alquilar.csproj.GenerateResource.Cache
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\obj\Debug\Alquilar.exe
+c:\users\seeker\documents\visual studio 2013\Projects\Alquilar\Alquilar\obj\Debug\Alquilar.pdb

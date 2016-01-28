@@ -1,0 +1,54 @@
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe.config
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.pdb
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csprojResolveAssemblyReference.cache
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.Properties.Resources.resources
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csproj.GenerateResource.Cache
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.exe
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.pdb
+c:\users\scrurra\documents\visual studio 2013\Projects\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.FormTareas.resources
+D:\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe.config
+D:\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.exe
+D:\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.pdb
+D:\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe
+D:\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.pdb
+D:\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csprojResolveAssemblyReference.cache
+D:\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.FormTareas.resources
+D:\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.Properties.Resources.resources
+D:\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csproj.GenerateResource.Cache
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe.config
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.exe
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.pdb
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.pdb
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csprojResolveAssemblyReference.cache
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.FormTareas.resources
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.Properties.Resources.resources
+E:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csproj.GenerateResource.Cache
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe.config
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.exe
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.pdb
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.pdb
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csprojResolveAssemblyReference.cache
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.FormTareas.resources
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.Properties.Resources.resources
+D:\ComboBox_CruzParra_Samuel\Exposicion_ComboBox\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csproj.GenerateResource.Cache
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe.config
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.exe
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csprojResolveAssemblyReference.cache
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.FormTareas.resources
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.Properties.Resources.resources
+D:\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe.config
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.pdb
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\bin\Debug\Exposicion_ComboBox.pdb
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.FormTareas.resources
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\GestorTareas\Exposicion_ComboBox\obj\Debug\Exposicion_ComboBox.csproj.GenerateResource.Cache

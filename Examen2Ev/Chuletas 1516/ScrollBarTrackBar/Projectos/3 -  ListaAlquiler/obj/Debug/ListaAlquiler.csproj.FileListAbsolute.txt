@@ -1,0 +1,9 @@
+I:\Presentación\Projectos\3 -  ListaAlquiler\bin\Debug\Alquilar.exe.config
+I:\Presentación\Projectos\3 -  ListaAlquiler\obj\Debug\Alquilar.exe
+I:\Presentación\Projectos\3 -  ListaAlquiler\obj\Debug\Alquilar.pdb
+I:\Presentación\Projectos\3 -  ListaAlquiler\bin\Debug\Alquilar.exe
+I:\Presentación\Projectos\3 -  ListaAlquiler\bin\Debug\Alquilar.pdb
+I:\Presentación\Projectos\3 -  ListaAlquiler\obj\Debug\ListaAlquiler.csprojResolveAssemblyReference.cache
+I:\Presentación\Projectos\3 -  ListaAlquiler\obj\Debug\Alquilar.Listaalquiler.resources
+I:\Presentación\Projectos\3 -  ListaAlquiler\obj\Debug\Alquilar.Properties.Resources.resources
+I:\Presentación\Projectos\3 -  ListaAlquiler\obj\Debug\ListaAlquiler.csproj.GenerateResource.Cache

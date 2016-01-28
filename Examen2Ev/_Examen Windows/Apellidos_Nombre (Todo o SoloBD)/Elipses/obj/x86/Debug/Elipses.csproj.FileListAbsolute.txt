@@ -1,0 +1,11 @@
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\x86\Debug\Elipses.exe.config
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\x86\Debug\BD_Elipses.mdb
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\x86\Debug\Elipses.exe
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\x86\Debug\Elipses.pdb
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\x86\Debug\Elipses.csprojResolveAssemblyReference.cache
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\x86\Debug\Elipses.FormDatos.resources
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\x86\Debug\Elipses.FormDibujo.resources
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\x86\Debug\Elipses.Properties.Resources.resources
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\x86\Debug\Elipses.csproj.GenerateResource.Cache
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\x86\Debug\Elipses.exe
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\x86\Debug\Elipses.pdb

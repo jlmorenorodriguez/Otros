@@ -1,0 +1,20 @@
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\bin\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\bin\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\ElipsesOK.FormDatos.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\ElipsesOK.FormDibujo.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\ElipsesOK.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\Elipses (OK).csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Segmentos (OK)\obj\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\obj\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\bin\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\bin\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\obj\Debug\ElipsesOK.FormDatos.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\obj\Debug\ElipsesOK.FormDibujo.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\obj\Debug\ElipsesOK.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\Elipses (OK)\Elipses (OK)\obj\Debug\Elipses (OK).csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Segmentos (OK).pdb

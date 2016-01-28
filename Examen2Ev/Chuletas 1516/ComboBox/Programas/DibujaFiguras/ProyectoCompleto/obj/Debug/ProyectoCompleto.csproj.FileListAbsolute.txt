@@ -1,0 +1,21 @@
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\bin\Debug\ProyectoCompleto.exe.config
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\bin\Debug\ProyectoCompleto.exe
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\bin\Debug\ProyectoCompleto.pdb
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\obj\Debug\ProyectoCompleto.csprojResolveAssemblyReference.cache
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\obj\Debug\ProyectoCompleto.Form1.resources
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\obj\Debug\ProyectoCompleto.Properties.Resources.resources
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\obj\Debug\ProyectoCompleto.csproj.GenerateResource.Cache
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\obj\Debug\ProyectoCompleto.exe
+c:\users\cruz\documents\visual studio 2013\Projects\ProyectoCompleto\ProyectoCompleto\obj\Debug\ProyectoCompleto.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\bin\Debug\ProyectoCompleto.exe.config
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.exe
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\bin\Debug\ProyectoCompleto.exe
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\bin\Debug\ProyectoCompleto.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.csprojResolveAssemblyReference.cache
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.Form1.resources
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.Properties.Resources.resources
+D:\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\bin\Debug\ProyectoCompleto.exe.config
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\DibujaFiguras\ProyectoCompleto\obj\Debug\ProyectoCompleto.pdb

@@ -1,0 +1,9 @@
+I:\Presentación\Projectos\1 - Pizarra\bin\Debug\ScrollBar.exe.config
+I:\Presentación\Projectos\1 - Pizarra\obj\Debug\ScrollBar.exe
+I:\Presentación\Projectos\1 - Pizarra\obj\Debug\ScrollBar.pdb
+I:\Presentación\Projectos\1 - Pizarra\bin\Debug\ScrollBar.exe
+I:\Presentación\Projectos\1 - Pizarra\bin\Debug\ScrollBar.pdb
+I:\Presentación\Projectos\1 - Pizarra\obj\Debug\Pizarra.csprojResolveAssemblyReference.cache
+I:\Presentación\Projectos\1 - Pizarra\obj\Debug\ScrollBar.Pizarra.resources
+I:\Presentación\Projectos\1 - Pizarra\obj\Debug\ScrollBar.Properties.Resources.resources
+I:\Presentación\Projectos\1 - Pizarra\obj\Debug\Pizarra.csproj.GenerateResource.Cache

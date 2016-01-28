@@ -1,0 +1,11 @@
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\bin\Debug\PruebaTrabajo2.exe.config
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\obj\Debug\PruebaTrabajo2.Form1.resources
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\obj\Debug\PruebaTrabajo2.Properties.Resources.resources
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\obj\Debug\PruebaTrabajo2.csproj.GenerateResource.Cache
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\bin\Debug\PruebaTrabajo2.exe
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\bin\Debug\PruebaTrabajo2.pdb
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\obj\Debug\PruebaTrabajo2.exe
+c:\users\usualtairss\documents\visual studio 2013\Projects\PruebaTrabajo2\PruebaTrabajo2\obj\Debug\PruebaTrabajo2.pdb
+E:\Trabajo dotnet\PruebaTrabajo2\PruebaTrabajo2\bin\Debug\PruebaTrabajo2.exe.config
+E:\Trabajo dotnet\PruebaTrabajo2\PruebaTrabajo2\obj\Debug\PruebaTrabajo2.exe
+E:\Trabajo dotnet\PruebaTrabajo2\PruebaTrabajo2\obj\Debug\PruebaTrabajo2.pdb

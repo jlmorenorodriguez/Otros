@@ -1,0 +1,18 @@
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe.config
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\bin\Debug\CheckListBox.pdb
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Form1.resources
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Properties.Resources.resources
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.GenerateResource.Cache
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\obj\Debug\CheckListBox.exe
+c:\users\jose\documents\visual studio 2013\Projects\CheckListBox\CheckListBox\obj\Debug\CheckListBox.pdb
+F:\Trabajo CSI2\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe.config
+F:\Trabajo CSI2\CheckListBox\CheckListBox\obj\Debug\CheckListBox.exe
+F:\Trabajo CSI2\CheckListBox\CheckListBox\obj\Debug\CheckListBox.pdb
+F:\Trabajo CSI2\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe
+F:\Trabajo CSI2\CheckListBox\CheckListBox\bin\Debug\CheckListBox.pdb
+F:\Trabajo CSI2\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csprojResolveAssemblyReference.cache
+F:\Trabajo CSI2\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Form1.resources
+F:\Trabajo CSI2\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Properties.Resources.resources
+F:\Trabajo CSI2\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.GenerateResource.Cache

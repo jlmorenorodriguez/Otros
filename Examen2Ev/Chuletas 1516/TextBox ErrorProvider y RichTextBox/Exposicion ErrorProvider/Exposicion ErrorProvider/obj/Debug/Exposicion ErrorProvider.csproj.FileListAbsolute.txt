@@ -1,0 +1,12 @@
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\bin\Debug\Exposicion ErrorProvider.exe.config
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\bin\Debug\Exposicion ErrorProvider.exe
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\bin\Debug\Exposicion ErrorProvider.pdb
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion ErrorProvider.csprojResolveAssemblyReference.cache
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion_ErrorProvider.Form1.resources
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion_ErrorProvider.Properties.Resources.resources
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion ErrorProvider.csproj.GenerateResource.Cache
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion ErrorProvider.exe
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion ErrorProvider.pdb
+C:\Users\Alberto\Desktop\Trabajos Controles\TextBox, ErrorProvider y RichTextBox\Exposicion ErrorProvider\Exposicion ErrorProvider\bin\Debug\Exposicion ErrorProvider.exe.config
+C:\Users\Alberto\Desktop\Trabajos Controles\TextBox, ErrorProvider y RichTextBox\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion ErrorProvider.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\TextBox, ErrorProvider y RichTextBox\Exposicion ErrorProvider\Exposicion ErrorProvider\obj\Debug\Exposicion ErrorProvider.pdb

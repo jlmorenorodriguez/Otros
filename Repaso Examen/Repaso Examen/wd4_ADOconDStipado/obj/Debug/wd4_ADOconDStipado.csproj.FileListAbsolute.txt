@@ -1,0 +1,76 @@
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.pdb
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnoDetalle.resources
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnos.resources
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.Properties.Resources.resources
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+C:\Users\Alberto\Desktop\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.pdb
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csprojResolveAssemblyReference.cache
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnoDetalle.resources
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnos.resources
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.Properties.Resources.resources
+C:\Altair\PNet2 Windows Form\wd4 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.pdb
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnoDetalle.resources
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnos.resources
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.Properties.Resources.resources
+C:\Users\Alberto\Desktop\AccesoDatos 1516\wd4.1 Gestión de BD con DS tipado\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csproj.GenerateResource.Cache
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.pdb
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csprojResolveAssemblyReference.cache
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnoDetalle.resources
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnos.resources
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.Properties.Resources.resources
+H:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csproj.GenerateResource.Cache
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.pdb
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csprojResolveAssemblyReference.cache
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnoDetalle.resources
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnos.resources
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.Properties.Resources.resources
+F:\3EVAL\wd4.1_ADOconDStipado\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csproj.GenerateResource.Cache
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.pdb
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csprojResolveAssemblyReference.cache
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnoDetalle.resources
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnos.resources
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.Properties.Resources.resources
+C:\Users\David Rosa\Desktop\PROYECTOS C#\DataSetTipado (Forma 2)\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csproj.GenerateResource.Cache
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.pdb
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csprojResolveAssemblyReference.cache
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnoDetalle.resources
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.FormAlumnos.resources
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.Properties.Resources.resources
+C:\Users\David Rosa\Desktop\PROYECTOS C#\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\PROYECTOS C#\2 AÑO\Repaso Examen\wd4_ADOconDStipado\bin\Debug\wd4_ADOconDStipado.exe.config
+C:\Users\David\Desktop\PROYECTOS C#\2 AÑO\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.exe
+C:\Users\David\Desktop\PROYECTOS C#\2 AÑO\Repaso Examen\wd4_ADOconDStipado\obj\Debug\wd4_ADOconDStipado.pdb

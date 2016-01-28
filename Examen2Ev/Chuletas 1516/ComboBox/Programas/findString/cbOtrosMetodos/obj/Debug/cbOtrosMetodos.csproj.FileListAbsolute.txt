@@ -1,0 +1,27 @@
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.exe.config
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.exe
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.pdb
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.csprojResolveAssemblyReference.cache
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.Form1.resources
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.Properties.Resources.resources
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.csproj.GenerateResource.Cache
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.exe
+c:\users\cruz\documents\visual studio 2013\Projects\cbOtrosMetodos\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.exe.config
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.exe
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.exe
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.pdb
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.csprojResolveAssemblyReference.cache
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.Form1.resources
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.Properties.Resources.resources
+D:\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.exe.config
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.pdb
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\bin\Debug\cbOtrosMetodos.pdb
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.Form1.resources
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Trabajos Controles\ComboBox_CruzParra_Samuel\Programas\findString\cbOtrosMetodos\obj\Debug\cbOtrosMetodos.csproj.GenerateResource.Cache

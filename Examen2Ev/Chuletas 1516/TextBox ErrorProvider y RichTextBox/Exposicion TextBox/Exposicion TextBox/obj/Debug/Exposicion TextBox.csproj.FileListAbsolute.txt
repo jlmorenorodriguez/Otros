@@ -1,0 +1,9 @@
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\bin\Debug\Exposicion TextBox.exe.config
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\bin\Debug\Exposicion TextBox.exe
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\bin\Debug\Exposicion TextBox.pdb
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\obj\Debug\Exposicion_TextBox.Form1.resources
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\obj\Debug\Exposicion_TextBox.Properties.Resources.resources
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\obj\Debug\Exposicion TextBox.csproj.GenerateResource.Cache
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\obj\Debug\Exposicion TextBox.exe
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\obj\Debug\Exposicion TextBox.pdb
+C:\Users\JoseLuis\Desktop\Workspace Visual Studio 2016\Exposicion TextBox\Exposicion TextBox\obj\Debug\Exposicion TextBox.csprojResolveAssemblyReference.cache

@@ -1,0 +1,56 @@
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\bin\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\bin\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Elipses.FormDatos.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Elipses.FormDibujo.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Elipses.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Elipses.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Segmentos (OK).exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses (OK)\obj\Debug\Segmentos (OK).pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.FormDatos.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.FormDibujo.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\bin\Debug\Elipses.exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\bin\Debug\Elipses.pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\xSRI\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.pdb
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.exe
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.pdb
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\bin\Debug\Elipses.exe
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\bin\Debug\Elipses.pdb
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.FormDatos.resources
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.FormDibujo.resources
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 DWS\xDWS\2xWindows\xWin_1112 (Elipses)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.exe
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.pdb
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\bin\Debug\Elipses.exe
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\bin\Debug\Elipses.pdb
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.FormDibujo.resources
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.Properties.Resources.resources
+C:\Users\Alberto\Desktop\xWin_1415 (ElipsesyRectn)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.csproj.GenerateResource.Cache
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1415)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.exe
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1415)\_Examen Windows\Apellidos_Nombre (Elipses)\Elipses\obj\Debug\Elipses.pdb
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.exe
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.pdb
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\Debug\Elipses.exe
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\Debug\Elipses.pdb
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.csprojResolveAssemblyReference.cache
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\ElipsesOK.FormDatos.resources
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.FormDibujo.resources
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.Properties.Resources.resources
+C:\Altair\PNet2 Windows Form\xWindows\xWin_ElipsesyRectn (1516) con BD\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.csproj.GenerateResource.Cache
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.exe
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.pdb
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\Debug\BD_Elipses.mdb
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\Debug\Elipses.exe.config
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\Debug\Elipses.exe
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\bin\Debug\Elipses.pdb
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.csprojResolveAssemblyReference.cache
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.FormDatos.resources
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.FormDibujo.resources
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.Properties.Resources.resources
+C:\Users\JoseLuis\Desktop\PREPARACION EXAMEN FORM\Examen2Ev\_Examen Windows\Apellidos_Nombre (Todo o SoloBD)\Elipses\obj\Debug\Elipses.csproj.GenerateResource.Cache

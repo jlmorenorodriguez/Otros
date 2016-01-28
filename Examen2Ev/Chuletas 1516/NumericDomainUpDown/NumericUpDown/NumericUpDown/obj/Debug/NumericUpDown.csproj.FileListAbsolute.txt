@@ -1,0 +1,9 @@
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.Cache
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+c:\users\pablo\documents\visual studio 2013\Projects\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb

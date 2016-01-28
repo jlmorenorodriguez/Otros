@@ -1,0 +1,27 @@
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.exe.config
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.exe
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.pdb
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.csprojResolveAssemblyReference.cache
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.Form1.resources
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.Properties.Resources.resources
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.csproj.GenerateResource.Cache
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.exe
+c:\users\quini\documents\visual studio 2013\Projects\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.pdb
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.exe.config
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.exe
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.pdb
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.exe
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.pdb
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.csprojResolveAssemblyReference.cache
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.Form1.resources
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.Properties.Resources.resources
+E:\_DWS\Presentación_RoizPagador_Joaquin\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.exe.config
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.pdb
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.exe
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\bin\Debug\DemoPresentacion.pdb
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.Form1.resources
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Trabajos Controles\CheckBox  RadioButton  y GroupBox\DemoPresentacion\DemoPresentacion\obj\Debug\DemoPresentacion.csproj.GenerateResource.Cache
