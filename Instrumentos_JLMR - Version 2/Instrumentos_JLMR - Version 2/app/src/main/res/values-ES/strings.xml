@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto 2</string>
+    <string name="edtPassword">Contraseña</string>
+    <string name="edtUser">Usuario</string>
+    <string name="btnSave">Guardar</string>
+    <string name="idInstrumento">ID</string>
+    <string name="txtName">Nombre</string>
+    <string name="txtYear">Año</string>
+    <string name="txtValue">Valor</string>
+    <string name="opcNew">Añadir</string>
+    <string name="opcContact">Contacto</string>
+    <string name="menu">Menu de opciones</string>
+    <string name="edtNameNew">Nombre</string>
+    <string name="txtAdd">Nuevo instrumento</string>
+    <string name="edtYearNew">Año</string>
+    <string name="btnSend">Enviar</string>
+    <string name="txtDireccion">Direccion El Barbero de Sevilla s/n</string>
+    <string name="txtPhone">+34617463574</string>
+    <string name="txtCall">Nº de telefono:</string>
+    <string name="btnCall">Llamar</string>
+    <string name="txtEdit">Editar instrumento</string>
+    <string name="edtNameEdit">Nuevo nombre</string>
+    <string name="edtYearEdit">Nuevo año</string>
+    <string name="btnOk">Ok</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="opcEdit">Editar</string>
+    <string name="opcErase">Borrar</string>
+    <string name="btnEdit">Editar</string>
+    <string name="msgDel">Desea borrar el producto </string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="edtIdEdit">Id</string>
+    <string name="Web">Web</string>
+    <string name="btnMap">Mapa</string>
+    <string name="subtitulo">Aplicación diseñada para DIW</string>
+    <string name="titulo">Instrumentos</string>
+    <string name="mensajeError">Error en el año o en el nombre</string>
+    <string name="mensajeLogin">Error en el login</string>
+</resources>
