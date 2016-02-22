@@ -1,0 +1,92 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>ValidarUsuario</servlet-name>
+  	<display-name>ValidarUsuario</display-name>
+  	<description></description>
+  	<servlet-class>es.altair.datos.ValidarUsuario</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>CerrarSesion</servlet-name>
+  	<display-name>CerrarSesion</display-name>
+  	<description></description>
+  	<servlet-class>es.altair.datos.CerrarSesion</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>AnadirInstrumento</servlet-name>
+  	<display-name>AnadirInstrumento</display-name>
+  	<description></description>
+  	<servlet-class>es.altair.datos.AnadirInstrumento</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>BorrarInstrumento</servlet-name>
+  	<display-name>BorrarInstrumento</display-name>
+  	<description></description>
+  	<servlet-class>es.altair.datos.BorrarInstrumento</servlet-class>
+  </servlet>
+
+  <servlet>
+  	<servlet-name>AnadirUsuarios</servlet-name>
+  	<display-name>AnadirUsuarios</display-name>
+  	<description></description>
+  	<servlet-class>es.altair.datos.AnadirUsuarios</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Jersey REST Service</servlet-name>
+  	<servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
+  	<init-param>
+  		<param-name>com.sun.jersey.config.property.packages</param-name>
+  		<param-value>es.altair.service</param-value>
+  	</init-param>
+  	<load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet>
+  	<servlet-name>EditarInstrumento</servlet-name>
+  	<display-name>EditarInstrumento</display-name>
+  	<description></description>
+  	<servlet-class>es.altair.datos.EditarInstrumento</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Edit</servlet-name>
+  	<display-name>Edit</display-name>
+  	<description></description>
+  	<servlet-class>es.altair.datos.Edit</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Jersey REST Service</servlet-name>
+  	<url-pattern>/rest/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ValidarUsuario</servlet-name>
+  	<url-pattern>/ValidarUsuario</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>CerrarSesion</servlet-name>
+  	<url-pattern>/CerrarSesion</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>AnadirInstrumento</servlet-name>
+  	<url-pattern>/AnadirInstrumento</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>BorrarInstrumento</servlet-name>
+  	<url-pattern>/BorrarInstrumento</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+  	<servlet-name>AnadirUsuarios</servlet-name>
+  	<url-pattern>/AnadirUsuarios</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>EditarInstrumento</servlet-name>
+  	<url-pattern>/EditarInstrumento</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Edit</servlet-name>
+  	<url-pattern>/Edit</url-pattern>
+  </servlet-mapping>
+</web-app>
