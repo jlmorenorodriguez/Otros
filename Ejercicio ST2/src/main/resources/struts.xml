@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	<constant name="struts.enable.DynamicMethodInvocation" value="false" />
+	<constant name="struts.devMode" value="true" />
+
+	<package name="default" namespace="/" extends="struts-default">
+
+		<interceptors>
+			<interceptor name="authentication"
+				class="es.altair.Struts2Web.interceptors.AuthenticationInterceptor" />
+			<interceptor-stack name="loginStack">
+				<interceptor-ref name="authentication" />
+				<!-- <interceptor-ref name="defaultStack"/> -->
+			</interceptor-stack>
+		</interceptors>
+
+		<action name="cerrarSesion" class="es.altair.Struts2Web.actions.Validar"
+			method="cerrarSesion">
+			<result name="success">/index.jsp</result>
+		</action>
+
+		<action name="menu" class="es.altair.Struts2Web.actions.Validar"
+			method="comprobar">
+			<result name="success">/pages/menu.jsp</result>
+			<result name="input">/index.jsp</result>
+		</action>
+
+		<action name="VerProductos" class="es.altair.Struts2Web.actions.GestionProductos"
+			method="listar">
+			<interceptor-ref name="loginStack" />
+			<result name="login">/index.jsp</result>
+			<result name="success">/pages/adminProductos.jsp</result>
+		</action>
+
+		<action name="anadirProducto" class="es.altair.Struts2Web.actions.GestionProductos"
+			method="anadir">
+			<result name="success">/pages/anadirProducto.jsp</result>
+		</action>
+
+		<action name="anadirProductoDef" class="es.altair.Struts2Web.actions.GestionProductos"
+			method="anadirDef">
+			<result name="success" type="redirect">VerProductos</result>
+		</action>
+
+		<action name="editarProducto" class="es.altair.Struts2Web.actions.GestionProducto"
+			method="editar">
+			<result name="success">/pages/editarProducto.jsp</result>
+		</action>
+
+		<action name="editarProductoDef" class="es.altair.Struts2Web.actions.GestionProductos"
+			method="editarDef">
+			<result name="success" type="redirect">VerProductos</result>
+		</action>
+
+		<action name="borrarProducto" class="es.altair.Struts2Web.actions.GestionProducto"
+			method="borrar">
+			<result name="success" type="redirect">VerProductos</result>
+		</action>
+
+		<action name="VerClientes" class="es.altair.Struts2Web.actions.GestionPedido"
+			method="listarClientes">
+			<result name="success">/pages/listadoClientes.jsp</result>
+		</action>
+
+		<action name="seleccionCliente" class="es.altair.Struts2Web.actions.GestionPedido"
+			method="selecCliente">
+			<result name="success">/pages/listadoProductos.jsp</result>
+		</action>
+
+		<action name="seleccionProductos" class="es.altair.Struts2Web.actions.GestionPedido"
+			method="selecProductos">
+			<result name="success" type="redirect">VerPedidos</result>
+		</action>
+		
+		<action name="VerPedidos" class="es.altair.Struts2Web.actions.GestionPedidos"
+			method="listar">
+			<result name="success">/pages/adminPedidos.jsp</result>
+		</action>
+		
+			<action name="mostrarPDF" class="es.altair.Struts2Web.actions.GestionPedidos"
+			method="mostrarPDF">
+			<result name="success" type="stream">
+				<param name="contentType">application/pdf</param>
+				<param name="inputName">inputStream</param>
+				<param name="ContentDisposition">filename="pedido.pdf"</param>
+				<param name="bufferSize">1024</param>
+			</result>
+		</action>
+
+	</package>
+
+	<!-- Add addition packages and configuration here. -->
+</struts>
