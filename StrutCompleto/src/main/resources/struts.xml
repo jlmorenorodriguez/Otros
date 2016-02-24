@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+    <constant name="struts.enable.DynamicMethodInvocation" value="false"/>
+    <constant name="struts.devMode" value="false"/>
+
+    <package name="default" namespace="/" extends="struts-default">
+           
+        <action name="login" class="es.altair.action.UsuarioAction" method="login">
+        	<result name="success">menuadmin.jsp</result>
+        	<result name="cliente">menucliente.jsp</result>
+        	<result name="error">login.jsp</result>
+        </action>
+        
+        <action name="listado" class="es.altair.action.ProductoAction" method="listar">
+			<result name="success">listado.jsp</result>
+		</action>
+		
+		<action name="borrarProducto" class="es.altair.action.ProductoAction" method="borrar">
+			<result name="success">listado.jsp</result>
+		</action>
+		
+		<action name="add" class="es.altair.action.ProductoAction" method="add">
+			<result name="success">listado.jsp</result>
+		</action>
+		
+		<action name="edit" class="es.altair.action.ProductoAction" method="edit">
+			<result name="success">listado.jsp</result>
+		</action>
+        
+    </package>
+
+</struts>
